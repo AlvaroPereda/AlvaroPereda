@@ -31,5 +31,4 @@
 
 ## 📫 Contacto
 
-- 📧 **Correo**: peredalvaro18@gmail.com  
 - 💼 **LinkedIn**: [Álvaro Pereda Sánchez](https://www.linkedin.com/in/álvaro-pereda-sánchez-b74567307/)
